@@ -29,7 +29,7 @@
 <br/>
 <br/>
   
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM4ODVxaDY2Z2I5ZW1yMmtrODBpcWhzMTVubjBvajhvNmJ6dndiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"> Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
