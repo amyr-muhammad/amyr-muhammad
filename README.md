@@ -19,7 +19,8 @@
 ---
 <br/>
 <br/>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px></picture><b> About me</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGszMXppZDNwaTE5NmMzdXZxNnY5MWZpeXZlY2V1MzRzN2V4MnFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="40"> About Me
+<br>
 <br/>
 <br/>
 
