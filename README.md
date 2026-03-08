@@ -22,6 +22,10 @@
 ---
 ## 🛠 &nbsp;About Me
 
+  I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.
+  ---
+  <br/>
+  
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
@@ -34,7 +38,6 @@
 
 
 ## 📊 Profile Statistics
-
 
 <div align=center>
 
