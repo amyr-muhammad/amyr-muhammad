@@ -1,8 +1,9 @@
-# Hi there, I'm Ameer Muhmmad 👋
+# I'm Ameer Muhmmad 👋
 
 ### 🚀 Front-End Designer & Developer
-- 🔭 I’m currently working on my personal portfolio.
-- 🌱 I’m currently learning Advanced JavaScript & UI/UX.
+
+- 🔭 Working on my personal portfolio.
+- 🌱 Learning Advanced JavaScript & UI/UX.
 - 📫 How to reach me: [Linkedin](in/ameer-muhammad789)
 
 ---
