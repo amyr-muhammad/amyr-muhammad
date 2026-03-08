@@ -19,7 +19,7 @@
 ---
 <br/>
 <br/>
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGszMXppZDNwaTE5NmMzdXZxNnY5MWZpeXZlY2V1MzRzN2V4MnFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="40"> About Me
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGszMXppZDNwaTE5NmMzdXZxNnY5MWZpeXZlY2V1MzRzN2V4MnFmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="50"> About Me
 <br>
 <br/>
 <br/>
