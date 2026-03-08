@@ -17,7 +17,7 @@
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"><b> About Me</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxkcW1sNW1leXZtZ3g4dXZyajM4bDZtMjI4ODlzdGduNXE1MWgxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/18YeX8h3cTw1eKZCNZ/giphy.gif" width="25"><b> About Me</b>
 
 <p align="center">
 I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.
