@@ -20,13 +20,13 @@
 </div>
 
 ---
-## 🛠 &nbsp;About Me
+##<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>;About Me
 
-  I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.
+  ##I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.
   ---
   <br/>
   
-## 🛠 &nbsp;Tech Stack
+##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +37,7 @@
 <br/>
 
 
-## 📊 Profile Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Profile Statistics
 
 <div align=center>
 
