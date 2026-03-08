@@ -11,9 +11,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Web%20Designer;BSCS%20Student;%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/amyr-muhammad" align="center" ><img src="https://visitor-badge.laobi.icu/badge?page_id=amyr-muhammad" alt="Visitor Badge"></a>
-</p>
+<div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile)
+
+<br>
+
+</div>
 
 ---
 ## 🛠 &nbsp;About Me
