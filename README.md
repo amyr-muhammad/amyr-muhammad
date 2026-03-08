@@ -19,8 +19,7 @@
 ---
 <br/>
 <br/>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="25"><b> About Me</b>
-<hr/>
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"><b> About Me</b><hr/>
 <br>
 <br>
 <br/>
