@@ -22,6 +22,7 @@
 <p align="center">
 I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.
 </p>
+---
   
 <br/>
 <br/>
@@ -35,7 +36,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 </p>
 
 <br/>
-
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Profile Statistics
 
@@ -43,6 +44,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
    
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile&rank_icon_color=58a6ff)
 </div>
+---
 
  <div align=center>
   
