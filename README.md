@@ -44,11 +44,11 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
    
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile&rank_icon_color=58a6ff)
 </div>
----
+
 
  <div align=center>
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amyr-muhammad&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
- 
+ ---
