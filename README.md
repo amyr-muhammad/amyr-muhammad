@@ -20,11 +20,17 @@
 </div>
 
 ---
+<br/>
+<br/>
+<br/>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<br/>
+<br/>
 
   <p> I’m Ameer, a BSCS student focused on building skills in web development and UI/UX design. I have practical experience with HTML, CSS, and JavaScript, and I enjoy creating clean, functional digital experiences. I’m also interested in YouTube and creative work like photography and sketching. My long-term goal is to combine web development with AI to build useful digital products and eventually grow them into scalable online businesses.</p>
-  ---
-  <br/>
+  
+<br/>
+<br/>
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
@@ -43,12 +49,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile&rank_icon_color=58a6ff)
 
-<br>
-
 </div>
 
-
- 
  ### 💳 Github Profile Summary Card
  
  <div align=center>
