@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Web%20Designer;BSCS%20Student;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Web%20Designer;BSCS%20Student;%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -26,12 +26,12 @@
   </a>
 </p>
 
-
+<br/>
 
 
 ## 📊 Profile Statistics
 
- <div align=center>
+<div align=center>
 
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
