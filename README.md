@@ -13,8 +13,7 @@
 
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile)
-</div>
+
 
 ---
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxkcW1sNW1leXZtZ3g4dXZyajM4bDZtMjI4ODlzdGduNXE1MWgxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/18YeX8h3cTw1eKZCNZ/giphy.gif" width="25"><b> About Me</b>
