@@ -48,8 +48,11 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 
  </div>
 
-   [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u43b2946)
-
+<p align="center">
+  <a href="https://scrimba.com/?via=u43b2946">
+    <img src="https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png" alt="20% Discount off Scrimba">
+  </a>
+</p>
 
 
 <!-- <div align=center>
