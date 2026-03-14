@@ -48,10 +48,8 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 
  </div>
 
-<div align = center>
    [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u43b2946)
 
-</div>
 
 
 <!-- <div align=center>
