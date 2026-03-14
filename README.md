@@ -48,6 +48,12 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 
  </div>
 
+<div align = center>
+   [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u43b2946)
+
+</div>
+
+
 <!-- <div align=center>
    
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile&rank_icon_color=58a6ff)
