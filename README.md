@@ -59,9 +59,9 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 </p>
 
 
-<div align=center>
+
   
-##My Learning Journey
+## My Learning Journey
 <p>
    I am a Front-End Developer and Designer dedicated to building polished, user-centric web experiences. My technical foundation was built through hands-on Scrimba courses, moving from core layouts to complex logic:
 
@@ -70,7 +70,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
  JavaScript: Focused on functional programming, DOM manipulation, and interactive web apps.
 </p>
 
- </div>
+
 
 <!-- <div align=center>
    
