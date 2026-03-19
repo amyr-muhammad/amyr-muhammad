@@ -59,6 +59,19 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 </p>
 
 
+<div align=center>
+  
+##My Learning Journey
+<p>
+   I am a Front-End Developer and Designer dedicated to building polished, user-centric web experiences. My technical foundation was built through hands-on Scrimba courses, moving from core layouts to complex logic:
+
+ HTML & CSS: Mastered responsive design, Flexbox, and Grid for mobile-first interfaces.
+
+ JavaScript: Focused on functional programming, DOM manipulation, and interactive web apps.
+</p>
+
+ </div
+
 <!-- <div align=center>
    
 ![](https://github-readme-stats.vercel.app/api?username=amyr-muhammad&show_icons=true&count_private=true&bg_color=1e2b3c&title_color=58a6ff&text_color=9ecbff&icon_color=58a6ff&border_color=B2E0FF&border_radius=20&include_all_commits=true&rank_icon=percentile&rank_icon_color=58a6ff)
