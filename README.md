@@ -70,7 +70,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
  JavaScript: Focused on functional programming, DOM manipulation, and interactive web apps.
 </p>
 
- </div
+ </div>
 
 <!-- <div align=center>
    
