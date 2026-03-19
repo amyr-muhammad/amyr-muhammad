@@ -63,7 +63,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
   
 ## My Learning Journey
 <p>
-   I am a Front-End Developer and Designer dedicated to building polished, user-centric web experiences. My technical foundation was built through hands-on Scrimba courses, moving from core layouts to complex logic:
+   I am a Front-End Developer and learning MERN Stack. My technical foundation was built through different resources, but the best resource I found was hands-on Scrimba courses. Understanding core logics with interactivity is really fun:
 
  HTML & CSS: Mastered responsive design, Flexbox, and Grid for mobile-first interfaces.
 
