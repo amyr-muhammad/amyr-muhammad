@@ -72,7 +72,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 
 <div align="center>   
 
-   [![Certificate](https://img.shields.io/badge/HTML%20and%20CSS)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp)
+   [![Certificate](https://img.shields.io/badge/HTML%20%26%20CSS-Certified-blue?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp)
 
    
    </div>
