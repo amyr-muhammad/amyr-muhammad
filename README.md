@@ -65,6 +65,9 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
  JavaScript: Focused on functional programming, DOM manipulation, and interactive web apps.
 </p>
 
+<hr />
+
+## My Certificates
 
 [![Certificate](https://img.shields.io/badge/HTML%20%26%20CSS-Certified-blue?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp) [![Certificate](https://img.shields.io/badge/Javascript-Certified-yellow?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMLQZ13JtG53MEswa)
 
