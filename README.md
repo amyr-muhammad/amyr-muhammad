@@ -53,9 +53,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 <hr/>
 
 <p align="center">
-  <a href="https://scrimba.com/?via=u43b2946">
-    <img src="https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png" alt="20% Discount off Scrimba">
-  </a>
+  [![HTML and CSS Certificate](https://img.shields.io/badge/HTML%20%26%20CSS-Certified-blue?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp)
 </p>
 
 
