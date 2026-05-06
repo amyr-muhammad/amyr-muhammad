@@ -73,7 +73,7 @@ I’m Ameer, a BSCS student focused on building skills in web development and UI
 
 ## My Certificates
 
-[![Certificate](https://img.shields.io/badge/HTML%20%26%20CSS-Certified-blue?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp) [![Certificate](https://img.shields.io/badge/Javascript-Certified-yellow?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMLQZ13JtG53MEswa)
+[![Certificate](https://img.shields.io/badge/HTML%20%26%20CSS-Certified-blue?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMJvFskmiXJmL1Uxp) [![Certificate](https://img.shields.io/badge/Javascript-Certified-yellow?style=plastic)](https://scrimba.com/u43b2946:certs;cert24zAwPPowVZ8Bug5w53BxMLQZ13JtG53MEswa)[![Certificate](https://img.shields.io/badge/React-Certified-blue?style=plastic)](https://scrimba.com/learn-react-c0e;cert24zAwPPowVZ8Bug5w53BxMGC3p4naLaFy5yur)
 
    
 
